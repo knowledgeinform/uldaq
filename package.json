@@ -1,0 +1,25 @@
+{
+  "name": "@qlc/uldaq",
+  "version": "1.0.17",
+  "description": "node wrapper for uldaq library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.jhuapl.edu/jonesjp1/uldaq.git"
+  },
+  "keywords": [
+    "uldaq",
+    "mcc",
+    "measurement",
+    "computing"
+  ],
+  "author": "Jonathan P Jones",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^7.0.0"
+  }
+}
